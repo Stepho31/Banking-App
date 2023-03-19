@@ -15,7 +15,7 @@
 To clone and run this application, you'll need Git installed on your computer. From your command line:
 
 ```bash
-git clone 
+git clone https://github.com/Stepho31/VeryableCodingChallenge.git
 ```
 ## Contributing
 
