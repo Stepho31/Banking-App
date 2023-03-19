@@ -1,7 +1,5 @@
 # VeryableCodingChallenge
 
-Coding Challenge
-
 # Key Features
 
 • The purpose of this exercise is to build an app where the user can see the list of their banking and card accounts (AccountList) and select an individual account to view some details (AccountDetail).
