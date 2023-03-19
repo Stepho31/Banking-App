@@ -17,6 +17,9 @@ To clone and run this application, you'll need Git installed on your computer. F
 ```bash
 git clone https://github.com/Stepho31/VeryableCodingChallenge.git
 ```
+
+Make sure to open the file ending in .xcworkspace to view this project
+
 ## Contributing
 
 • Snapkit
